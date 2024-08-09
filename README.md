@@ -1,9 +1,9 @@
 # Maize Classification Project
 ## Overview
-This project aims to classify images of maize using a deep learning model based on the YOLOv8 architecture. The training and evaluation of the model involve multiple stages, from training on a custom dataset to analyzing the results and averaging predictions from different models to enhance accuracy.
+The Maize Disease Classification project aimed to develop a robust model capable of accurately classifying maize leaf images into five categories: healthy, and four distinct disease classes:
 
-1. Installation
-2. Training the Model
-3. Analyzing Results
-4. Averaging Probabilities
-5. Generating Final Results
+1. FAW - Images show leaves that have suffered fallarmy worm damage.
+2. MLB - Images show leaves affected by Maize Leaf Blight
+3. MLN - Images show leaves affected by Maize Lethal Necrosis
+4. MSV - Images show leaves affected by Maize Streak Virus
+
