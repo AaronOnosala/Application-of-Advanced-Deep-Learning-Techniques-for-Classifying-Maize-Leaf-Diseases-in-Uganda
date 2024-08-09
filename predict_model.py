@@ -1,7 +1,10 @@
 # importing necessary libraries
-import numpy as np
-import pandas as pd
-from ultralytics import YOLO
+# Importing essential libraries
+
+import numpy as np  # Provides support for large, multi-dimensional arrays and matrices, along with mathematical functions
+import pandas as pd  # Used for data manipulation and analysis; provides data structures for efficiently handling structured data
+from ultralytics import YOLO  # Imports the YOLO (You Only Look Once) object detection model from the Ultralytics library
+
 
 def get_probabilities_and_paths(model, input_path):
     """
