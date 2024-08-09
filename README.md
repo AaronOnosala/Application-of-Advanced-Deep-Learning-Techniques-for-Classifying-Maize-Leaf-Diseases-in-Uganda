@@ -54,7 +54,7 @@ The project encountered several challenges:
 * __Challenge:__ Ensuring that the augmented dataset remained representative and did not introduce noise or bias.
 * __Solution:__ Careful application of augmentation techniques preserved the dataset's integrity and improved the model's robustness.
 
-## Image Result
+## Image Result of 4 class of the 5 class samples
 <img width="982" alt="Screenshot 2024-08-09 at 08 56 00" src="https://github.com/user-attachments/assets/fcc43bba-9afd-40c6-8f89-43621ece8182">
 
 ## Outcomes and Achievements
