@@ -54,6 +54,9 @@ The project encountered several challenges:
 * __Challenge:__ Ensuring that the augmented dataset remained representative and did not introduce noise or bias.
 * __Solution:__ Careful application of augmentation techniques preserved the dataset's integrity and improved the model's robustness.
 
+## Image Result
+<img width="982" alt="Screenshot 2024-08-09 at 08 56 00" src="https://github.com/user-attachments/assets/fcc43bba-9afd-40c6-8f89-43621ece8182">
+
 ## Outcomes and Achievements
 The project achieved significant success, with the final model attaining an impressive accuracy of 99.46%, up from an initial 96%. This remarkable improvement underscores the effectiveness of data augmentation and model ensemble techniques. The model's high accuracy demonstrates its potential to significantly aid in early disease detection, ultimately benefiting farmers and agricultural stakeholders.
 
