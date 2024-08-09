@@ -1,4 +1,4 @@
-# Maize Classification Project
+# Maize Diseases Classification Project
 ## Overview
 The maize disease classification project aimed to develop a robust model capable of accurately identifying and classifying diseases in maize leaves. Given the critical importance of maize as a staple crop, early detection and classification of leaf diseases are crucial for preventing significant yield losses and ensuring food security. The project focused on distinguishing between healthy leaves and those affected by four distinct diseases:
 
