@@ -18,9 +18,9 @@ To achieve this objective, various machine learning frameworks were explored, in
 ### Data Collection and Preparation:
 
 1. __Initial Dataset:__ The initial dataset comprised 26,043 images of maize leaves and can be found [here.](https://storage.googleapis.com/air-lab-hackathon/Maize/classification/Classification_maize.zip) This dataset represents 4 maize leaf disease classes i.e. MSV, FAW, MLN MLB and 1 class for HEALTHY images. The dataset is split into three sets:
- + Train with 26063 images.
- +  Validation with 7445 images.
- +  Test with 3729 images.
+  + Train with 26063 images.
+  +  Validation with 7445 images.
+  +  Test with 3729 images.
 2. __Data Augmentation:__ To enhance the model's performance and robustness, data augmentation techniques were applied, expanding the dataset to 50,000 images on the training images only. Techniques included random cropping, horizontal and vertical flipping, random gamma adjustments, RGB shifts, and color jittering.
 
 ### Model Training and Evaluation:
