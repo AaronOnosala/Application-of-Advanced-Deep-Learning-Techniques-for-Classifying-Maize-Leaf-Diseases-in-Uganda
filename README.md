@@ -32,7 +32,7 @@ To achieve this objective, various machine learning frameworks were explored, in
 2. __Training:__ The model was trained for 100 epochs with an image size of 640 pixels, using the augmented dataset.
 3. __Evaluation:__ The model's performance was evaluated using metrics such as training loss, validation loss, and validation accuracy.
 
-## YOLO v8s Network Structures
+## YOLO v8 Network Structures
 <img width="912" alt="Screenshot 2024-08-09 at 10 52 41" src="https://github.com/user-attachments/assets/a71dfa95-d5ce-4161-a749-97dc06a707bc">
 
 ### Model Ensemble and Probability Averaging:
