@@ -18,6 +18,10 @@ The maize disease classification project aimed to develop a robust model capable
 Maize is a staple food crop in many parts of the world, especially in Africa. The primary objective of this project was to create a machine learning model that could reliably classify images of maize leaves into one of five categories: healthy, FAW, MLB, MLN, and MSV. This model would assist farmers and agricultural experts in early disease detection, enabling timely intervention and treatment. However, various diseases significantly affect maize yield and quality, posing a threat to food security. Early and accurate disease diagnosis is crucial for effective management and control of these diseases. This project addressed the need for an automated, reliable, and accessible solution for identifying maize leaf diseases for Ugandan farmers.
 
 ##  Approach, AI Tools and Techniques Applied 
+
+### Framework Used In This Project
+<img width="741" alt="Screenshot 2024-08-12 at 11 46 01" src="https://github.com/user-attachments/assets/47820292-eb6f-44ce-b30d-65314b952538">
+
 To achieve this objective, various machine learning frameworks were explored, including CNN and VGG19. However, YOLOv8 (You Only Look Once) emerged as the best-performing model due to its superior accuracy and efficiency. The project involved several key steps:
 
 ### Data Collection and Preparation:
