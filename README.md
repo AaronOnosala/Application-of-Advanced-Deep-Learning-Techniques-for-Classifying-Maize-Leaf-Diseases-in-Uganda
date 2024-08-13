@@ -2,7 +2,7 @@
 
 * Collaboration: [Makerere Artificial Intelligence Lab](https://air.ug), [Lacuna Fund](https://lacunafund.org/)
   
-<img width="373" alt="Screenshot 2024-08-12 at 11 29 06" src="https://github.com/user-attachments/assets/96adf8ff-e206-4d07-9b30-f9971a68d0d2"> <img width="399" alt="Screenshot 2024-08-13 at 19 20 29" src="https://github.com/user-attachments/assets/fcf16b19-2048-49f0-b4c9-721c632b2fb7">  <img width="392" alt="Screenshot 2024-08-12 at 11 28 05" src="https://github.com/user-attachments/assets/03e911e9-1bee-4a29-a2fc-3168df487c22"> 
+<img width="373" alt="Screenshot 2024-08-12 at 11 29 06" src="https://github.com/user-attachments/assets/96adf8ff-e206-4d07-9b30-f9971a68d0d2"> <img width="399" alt="Screenshot 2024-08-13 at 19 20 29" src="https://github.com/user-attachments/assets/fcf16b19-2048-49f0-b4c9-721c632b2fb7"> <img width="392" alt="Screenshot 2024-08-12 at 11 28 05" src="https://github.com/user-attachments/assets/03e911e9-1bee-4a29-a2fc-3168df487c22"> 
 
 ## Overview
 The maize disease classification project aimed to develop a robust model capable of accurately identifying and classifying diseases in maize leaves. Given the critical importance of maize as a staple crop, early detection and classification of leaf diseases are crucial for preventing significant yield losses and ensuring food security. The project focused on distinguishing between healthy leaves and those affected by four distinct diseases:
