@@ -70,11 +70,11 @@ The project encountered several challenges:
 <img width="982" alt="Screenshot 2024-08-09 at 08 56 00" src="https://github.com/user-attachments/assets/fcc43bba-9afd-40c6-8f89-43621ece8182">
 
 ## Outcomes and Achievements
-The project achieved significant success, with the final model attaining an impressive accuracy of 99.46%, up from an initial 96%. This remarkable improvement underscores the effectiveness of data augmentation and model ensemble techniques. The model's high accuracy demonstrates its potential to significantly aid in early disease detection, ultimately benefiting farmers and agricultural stakeholders.
+The project achieved significant success, with the final model attaining an impressive accuracy of 99.7%, up from an initial 94%. This remarkable improvement underscores the effectiveness of data augmentation. The model's high accuracy demonstrates its potential to significantly aid in early disease detection, ultimately benefiting farmers and agricultural stakeholders.
 
 ## Quantified Success
 
-- __Accuracy Improvement:__ Enhanced model accuracy from 96% to 99.46% through data augmentation and model ensembling.
+- __Accuracy Improvement:__ Enhanced model accuracy from 94% to 99.7% through data augmentation.
 - __Dataset Expansion:__ Augmented the initial dataset from 26,043 to 50,000 images, increasing the model's training data and improving its performance.
 
 ## Conclusion
