@@ -1,4 +1,4 @@
-# Application of Advanced Deep Learning Techniques for Classifying Maize Leaf Diseases in Uganda
+# Harnessing the Power of Advanced Deep Learning Techniques for Early Detection and Classifying Maize Leaf Diseases in Uganda
 
 * Collaboration: [Makerere Artificial Intelligence Lab](https://air.ug), [Lacuna Fund](https://lacunafund.org/)
   
